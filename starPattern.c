@@ -1,3 +1,4 @@
+//Write a program to print the star pattern
 #include <stdio.h>
 
 int main()
