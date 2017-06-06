@@ -3,7 +3,7 @@ void main()
 {
     int n,originalNum,reversedNum=0,rem;
     printf("Enter a number ");
-    scanf("%d",&n); //If & is not written then it can segmentation fault
+    scanf("%d",&n); //If &(ampersand) is not written, then it can cause segmentation fault
     originalNum=n;
     while(n!=0)
     {
