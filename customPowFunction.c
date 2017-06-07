@@ -19,7 +19,7 @@ int main()
 
 
 /****** Alternate solution using for loop ***************************/
-#include <stdio.h>
+// #include <stdio.h>
 
 // int main()
 // {
