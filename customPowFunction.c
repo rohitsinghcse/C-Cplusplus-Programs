@@ -17,3 +17,21 @@ int main()
     return 0;
 }
 
+
+/****** Alternate solution using for loop ***************************/
+#include <stdio.h>
+
+// int main()
+// {
+//     int base,n,p;
+//     printf("Enter base and n"); // if base =2 and n = 3 then its 2 power 3
+//     scanf("%d%d",&base,&n);
+    
+//     for(p=1;n>0;n--)
+//     {
+//         p *= base; // 
+//     }
+//     printf("Result = %d\n",p);
+    
+//     return 0;
+// }
